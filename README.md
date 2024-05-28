@@ -2,7 +2,7 @@
 
 ## Me chamo Maurício Andreolla de Brito (Ou se preferir MauMau)
 
-Sempre programando e gerando bugs nas seguintes tecnologias:
+Em constante aprendizado nas tecnologias:
 
 (.NET | ReactJS | Typescript | Javascript | HTML | CSS) 🧰
 
