@@ -4,7 +4,7 @@
 
 Sempre programando e gerando bugs nas seguintes tecnologias:
 
-🧰 (.NET | ReactJS | Typescript | Javascript | HTML | CSS) 
+(.NET | ReactJS | Typescript | Javascript | HTML | CSS) 🧰
 
 
 <!--
