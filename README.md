@@ -1,11 +1,12 @@
 # Hi There! 👋
 
-## Me chamo Maurício Andreolla de Brito (Ou se preferir MauMau)
+### Me chamo Maurício Andreolla de Brito (Ou se preferir MauMau)
 
 Em constante evolução nas tecnologias:
 
-(.NET | ReactJS | Typescript | Javascript | HTML | CSS) 🧰
-
+<div align="center">
+<strong>(.NET | ReactJS | Typescript | Javascript | HTML | CSS)</strong> 🧰
+</div>
 
 <!--
 **MauricioAndreolla/MauricioAndreolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
