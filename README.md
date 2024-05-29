@@ -1,6 +1,6 @@
 # Hi There! 👋
 
-### Me chamo Maurício Andreolla de Brito (Ou se preferir MauMau)
+### Me chamo Maurício Andreolla de Brito ou se preferir MauMau.
 
 Em constante evolução nas tecnologias:
 
