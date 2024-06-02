@@ -5,7 +5,7 @@
 Em constante evolução nas tecnologias:
 
 <div align="center">
-<strong>(.NET | ReactJS | Typescript | Javascript | HTML | CSS)</strong> 🧰
+<strong>(C# | .NET | ReactJS | Typescript | Javascript | HTML | CSS)</strong> 🧰
 </div>
 
 <!--
